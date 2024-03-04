@@ -1,12 +1,11 @@
 {
-  "name": "@pothuraju-dev/vue-table",
-  "private": false,
-  "version": "0.0.0-beta",
+  "name": "@marirs-dev/vue-table",
+  "version": "1.0.0",
   "description": "Vue table plugin with advanced features",
   "type": "module",
   "author": {
-    "name": "Pothuraju Sri Ram",
-    "email": "ram.160797@gmail.com"
+    "name": "Pothuraju <sriramkumar.pothuraju@gmail.com>",
+    "url": "https://github.com/pothuraju-dev"
   },
   "repository": {
     "type": "git",
